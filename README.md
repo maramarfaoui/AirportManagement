@@ -1,5 +1,7 @@
 <h1>Airport Management System</h1>
+
 <p id="description">Welcome to the Airport Management System project, a robust solution designed to facilitate the efficient operation of an airport. This comprehensive system simplifies the management of planes, flights, passengers, staff, and travelers. With well-defined entities and relationships, it ensures smooth and organized airport operations. </p>
+
 <h1>Key Classes and Relationships</h1>
 
 <h2>Plane Entity :</h2>
